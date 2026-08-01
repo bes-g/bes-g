@@ -45,9 +45,13 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bes-g/bes-g/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-g&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+
+</div>
+
+<br/><br/>
 
 ---
 
