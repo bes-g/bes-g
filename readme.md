@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/besufkad-tekalign" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.besufkadtekalign@gmail.com" target="_blank">
+  <a href="mailto:besufkadtekalign@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/levantosi" target="_blank">
@@ -38,13 +38,15 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,cpp,git,github,ps,ai,figma,notion,canva" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bes-g/bes-g/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -72,9 +74,9 @@
 
 ### 🏆 Featured Projects
 
-- **[Collaborative Problem-Solving Machine](https://github.com/bes-g/repo)**Designed and built in collaboration with ASU students to address a real-world engineering challenge, blending mechanical design with software/control logic. Combined my engineering background with development skills to bring a functional prototype to life..
-- ** [Personal Portfolio Website](https://github.com/bes-g/repo)** — A responsive personal portfolio built with HTML, CSS, and JavaScript to showcase my projects and skills as a frontend developer, focused on clean UI and smooth user experience.
-- **[Full-Stack Web App](https://github.com/bes-g/repo)** A project built during my development traineeship at INSA to practice full-stack fundamentals, using React on the frontend and Python on the backend, with Git/GitHub for version control.
+- **[Collaborative Problem-Solving Machine](https://github.com/bes-g/repo)** — Designed and built in collaboration with ASU students to address a real-world engineering challenge, blending mechanical design with software/control logic. Combined my engineering background with development skills to bring a functional prototype to life.
+- **[Personal Portfolio Website](https://github.com/bes-g/repo)** — A responsive personal portfolio built with HTML, CSS, and JavaScript to showcase my projects and skills as a frontend developer, focused on clean UI and smooth user experience.
+- **[Full-Stack Web App](https://github.com/bes-g/repo)** — A project built during my development traineeship at INSA to practice full-stack fundamentals, using React on the frontend and Python on the backend, with Git/GitHub for version control.
 
 ---
 
