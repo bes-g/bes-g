@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Besufkad Tekalign 👋</h1>
 
-<h3 align="center">Frontend Web Developer · Full-Stack in Progress · Mechanical & Industrial Engineering Student</h3>
+<h3 align="center">Full-Stack Developer ·Currently building skills in Mobile App Development · Mechanical & Industrial Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Going+Full-Stack;INSA+Development+Trainee;Building+with+HTML%2C+CSS%2C+JS%2C+React%2C+Python;Open+to+Collaboration+on+Dev+Projects" alt="Typing SVG" />
