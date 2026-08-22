@@ -16,18 +16,18 @@
   <a href="https://t.me/levantosi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://portfolio-taupe-alpha-69.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://my-portfolio-zeta-sepia-71.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑💻 About Me
 
 - 🎓 Studying **Mechanical & Industrial Engineering** at **Addis Ababa University**
 - 💻 Also deep into **tech & software development** — best of both worlds
-- 🧑‍🏫 Currently a **Development Trainee at INSA**, sharpening my full-stack skills
+- 🧑🏫 Currently a **Development Trainee at INSA**, sharpening my full-stack skills
 - 🌐 Frontend developer branching into **full-stack development**
 - 🛠️ Building a machine in collaboration with **ASU students** to solve real-world problems
 - 🤝 Looking to **collaborate on development projects** — always down to team up
@@ -76,9 +76,9 @@
 
 ### 🏆 Featured Projects
 
-- **[Collaborative Problem-Solving Machine](https://github.com/bes-g/repo)** — Designed and built in collaboration with ASU students to address a real-world engineering challenge, blending mechanical design with software/control logic. Combined my engineering background with development skills to bring a functional prototype to life.
-- **[Personal Portfolio Website](https://github.com/bes-g/repo)** — A responsive personal portfolio built with HTML, CSS, and JavaScript to showcase my projects and skills as a frontend developer, focused on clean UI and smooth user experience.
-- **[Full-Stack Web App](https://github.com/bes-g/repo)** — A project built during my development traineeship at INSA to practice full-stack fundamentals, using React on the frontend and Python on the backend, with Git/GitHub for version control.
+- **[Collaborative Problem-Solving Machine](https://github.com/bes-g/my-portfolio)** — Designed and built in collaboration with ASU students to address a real-world engineering challenge, blending mechanical design with software/control logic. Combined my engineering background with development skills to bring a functional prototype to life.
+- **[Personal Portfolio Website](https://my-portfolio-zeta-sepia-71.vercel.app/)** — A modern interactive 3D WebGL personal portfolio featuring real-time AI assistance, custom dark-mode themes, dynamic CV integration, and responsive design.
+- **[Full-Stack Web App](https://github.com/bes-g/my-portfolio)** — A project built during my development traineeship at INSA to practice full-stack fundamentals, using React on the frontend and Node.js/Python on the backend, with Git/GitHub for version control.
 
 ---
 
