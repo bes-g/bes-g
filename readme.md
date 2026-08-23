@@ -16,7 +16,7 @@
   <a href="https://t.me/levantosi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-zeta-sepia-71.vercel.app/" target="_blank">
+  <a href="besufkad-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
