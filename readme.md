@@ -16,7 +16,7 @@
   <a href="https://t.me/levantosi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="besufkad-portfolio.vercel.app/" target="_blank">
+  <a href="https://besufkad-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
@@ -77,7 +77,7 @@
 ### 🏆 Featured Projects
 
 - **[Collaborative Problem-Solving Machine](https://github.com/bes-g/my-portfolio)** — Designed and built in collaboration with ASU students to address a real-world engineering challenge, blending mechanical design with software/control logic. Combined my engineering background with development skills to bring a functional prototype to life.
-- **[Personal Portfolio Website](https://my-portfolio-zeta-sepia-71.vercel.app/)** — A modern interactive 3D WebGL personal portfolio featuring real-time AI assistance, custom dark-mode themes, dynamic CV integration, and responsive design.
+- **[Personal Portfolio Website](https://besufkad-portfolio.vercel.app/)** — A modern interactive 3D WebGL personal portfolio featuring real-time AI assistance, custom dark-mode themes, dynamic CV integration, and responsive design.
 - **[Full-Stack Web App](https://github.com/bes-g/my-portfolio)** — A project built during my development traineeship at INSA to practice full-stack fundamentals, using React on the frontend and Node.js/Python on the backend, with Git/GitHub for version control.
 
 ---
