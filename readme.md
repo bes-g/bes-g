@@ -56,12 +56,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bes-g&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bes-g&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bes-g&show_icons=true&theme=tokyonight&hide_border=true" alt="Besufkad's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bes-g&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bes-g&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bes-g&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,16 +69,16 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-g&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-g&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 🏆 Featured Projects
 
-- **[Collaborative Problem-Solving Machine](https://github.com/bes-g/my-portfolio)** — Designed and built in collaboration with ASU students to address a real-world engineering challenge, blending mechanical design with software/control logic. Combined my engineering background with development skills to bring a functional prototype to life.
-- **[Personal Portfolio Website](https://besufkad-portfolio.vercel.app/)** — A modern interactive 3D WebGL personal portfolio featuring real-time AI assistance, custom dark-mode themes, dynamic CV integration, and responsive design.
-- **[Full-Stack Web App](https://github.com/bes-g/my-portfolio)** — A project built during my development traineeship at INSA to practice full-stack fundamentals, using React on the frontend and Node.js/Python on the backend, with Git/GitHub for version control.
+- **[Collaborative Problem-Solving Machine](https://github.com/bes-g/my-portfolio)** — Designed and built in collaboration with ASU students to address a real-world engineering challenge, blending mechanical design with software/control logic.
+- **[Personal Portfolio Website](https://besufkad-portfolio.vercel.app/)** — A modern interactive 3D WebGL personal portfolio featuring dynamic theme integration and responsive design.
+- **[Full-Stack Web App](https://github.com/bes-g/my-portfolio)** — A project built during traineeship to practice full-stack fundamentals using React on the frontend and Node.js/Python on the backend.
 
 ---
 
