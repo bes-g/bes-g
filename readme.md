@@ -23,11 +23,11 @@
 
 ---
 
-### 🧑💻 About Me
+### 🧑‍💻 About Me
 
 - 🎓 Studying **Mechanical & Industrial Engineering** at **Addis Ababa University**
 - 💻 Also deep into **tech & software development** — best of both worlds
-- 🧑🏫 Currently a **Development Trainee at INSA**, sharpening my full-stack skills
+- 🧑‍🏫 Currently a **Development Trainee at INSA**, sharpening my full-stack skills
 - 🌐 Frontend developer branching into **full-stack development**
 - 🛠️ Building a machine in collaboration with **ASU students** to solve real-world problems
 - 🤝 Looking to **collaborate on development projects** — always down to team up
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bes-g&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bes-g&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
