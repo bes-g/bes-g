@@ -23,11 +23,11 @@
 
 ---
 
-### 🧑💻 About Me
+### 🧑‍💻 About Me
 
 - 🎓 Studying **Mechanical & Industrial Engineering** at **Addis Ababa University**
 - 💻 Also deep into **tech & software development** — best of both worlds
-- 🧑🏫 Currently a **Development Trainee at INSA**, sharpening my full-stack skills
+- 🧑‍🏫 Currently a **Development Trainee at INSA**, sharpening my full-stack skills
 - 🌐 Frontend developer branching into **full-stack development**
 - 🛠️ Building a machine in collaboration with **ASU students** to solve real-world problems
 - 🤝 Looking to **collaborate on development projects** — always down to team up
@@ -56,12 +56,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bes-g&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bes-g&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=bes-g&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=2" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=bes-g&layout=compact&theme=tokyonight&hide_border=true&cache_bust=2" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bes-g&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bes-g&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_bust=2" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-g&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-g&theme=react-dark&hide_border=true&area=true&cache_bust=2" alt="Activity Graph" />
 </p>
 
 ---
