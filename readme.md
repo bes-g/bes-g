@@ -46,7 +46,7 @@
 ### 📈 GitHub Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-g&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Besufkad's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-g&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Besufkad's Contribution Graph" />
 </p>
 
 ---
