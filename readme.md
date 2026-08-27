@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bes-g&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bes-g&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
